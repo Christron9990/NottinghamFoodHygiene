@@ -1,0 +1,28 @@
+ Array ( [establishments] =>
+ Array ( [0] => Array (
+ [FHRSID] => 957516
+ [LocalAuthorityBusinessID] => 76598
+ [BusinessName] => 1212 Afro-Caribbean Food Products & Snacks
+ [BusinessType] => Retailers - other
+ [BusinessTypeID] => 4613
+ [AddressLine1] =>
+ [AddressLine2] => 43 Mansfield Road
+ [AddressLine3] =>
+ [AddressLine4] => Nottingham
+ [PostCode] => NG1 3FB 
+ [Phone] =>
+ [RatingValue] => 5
+ [RatingKey] => fhrs_5_en-gb
+ [RatingDate] => 2017-04-04T00:00:00
+ [LocalAuthorityCode] => 899
+ [LocalAuthorityName] => Nottingham City
+ [LocalAuthorityWebSite] => http://www.nottinghamcity.gov.uk/foodsafety
+ [LocalAuthorityEmailAddress] => food.enforcement@nottinghamcity.gov.uk
+ [scores] => Array ( [Hygiene] => 5 [Structural] => 5 [ConfidenceInManagement] => 5 )
+ [SchemeType] => FHRS
+ [geocode] => Array ( [longitude] => -1.149437 [latitude] => 52.958205 )
+ [RightToReply] =>
+ [Distance] =>
+ [NewRatingPending] =>
+ [meta] => Array ( [dataSource] => [extractDate] => 0001-01-01T00:00:00 [itemCount] => 0 [returncode] => [totalCount] => 0 [totalPages] => 0 [pageSize] => 0 [pageNumber] => 0 )
+ [links] => Array ( [0] => Array ( [rel] => self [href] => http://api.ratings.food.gov.uk/establishments/957516 ) ) )

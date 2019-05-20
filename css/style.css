@@ -1,0 +1,39 @@
+header {
+  background-color: red;
+  margin: 0px;
+  padding: 10px;
+  height: 100px;
+  width: 100%;
+}
+nav {
+  background-color: orange;
+  margin: 0px;
+  padding: 10px;
+  height: 125px;
+  width: 20%;
+  float: left;
+}
+section {
+  background-color: pink;
+  margin: 0px;
+  padding: 10px;
+  height: 125px;
+  width: 55%;
+  float: left;
+}
+aside {
+  background-color: yellow;
+  margin: 0px;
+  padding: 10px;
+  height: 125px;
+  width: 20%;
+  float: right;
+}
+footer {
+  clear: both;
+  background-color: yellow;
+  margin: 0px;
+  padding: 10px;
+  height: 25px;
+  width: 100%;
+}
